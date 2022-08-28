@@ -7,7 +7,7 @@ function LogomarkPaths() {
 
 export function Logomark(props) {
   return (
-    <svg aria-hidden="true" viewBox="0 0 36 36" fill="none" {...props}>
+    <svg aria-hidden="true"  fill="none" {...props}>
     </svg>
   )
 }
