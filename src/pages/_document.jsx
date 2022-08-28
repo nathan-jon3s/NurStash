@@ -55,6 +55,9 @@ export default function Document() {
   return (
     <Html className="antialiased [font-feature-settings:'ss01']" lang="en">
       <Head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3095767359484825"
+  crossOrigin="anonymous">
+  </script>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </Head>
       <body className="bg-white dark:bg-slate-900">
@@ -64,3 +67,4 @@ export default function Document() {
     </Html>
   )
 }
+
