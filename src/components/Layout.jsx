@@ -18,7 +18,10 @@ const navigation = [
       { title: 'Health Assessment', href: '/docs/health-assess' },
     ],
   },
-  {
+
+/* This section will be added once the docs are complete
+
+{
     title: 'Anatomical Systems',
     links: [
       { title: 'Skeletal', href: '/docs/skel' },
@@ -34,6 +37,8 @@ const navigation = [
       { title: 'Exocrine', href: '/docs/exo' },
     ],
   },
+
+*/
 
 ]
 
