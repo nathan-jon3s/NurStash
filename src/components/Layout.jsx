@@ -21,7 +21,7 @@ const navigation = [
   {
     title: 'Anatomical Systems',
     links: [
-      { title: 'Skeletal', href: '/skel' },
+      { title: 'Skeletal', href: '/docs/skel' },
       { title: 'Muscular', href: '/docs/musc' },
       { title: 'Nervous', href: '/docs/nerv' },
       { title: 'Circulatory', href: '/docs/circ' },
