@@ -1,6 +1,6 @@
 ---
 title: Getting started
-pageTitle: NurStash - Never miss the cache again.
+pageTitle: NurStash - Your Nursing Wiki.
 description: Stash every single thing your app could ever do ahead of time, so your code never even has to run at all.
 ---
 
