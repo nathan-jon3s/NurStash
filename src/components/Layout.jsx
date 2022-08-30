@@ -13,33 +13,41 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 const navigation = [
   {
-    title: 'Nursing',
-    links: [
-      { title: 'Health Assessment', href: '/docs/health-assess' },
-    ],
+    title: 'Nursing School',
+    links: [{ title: 'Health Assessment', href: '/docs/health-assess' }],
   },
 
-/* This section will be added once the docs are complete
+  /* This section will be added once the docs are complete
+  
 
-{
-    title: 'Anatomical Systems',
-    links: [
-      { title: 'Skeletal', href: '/docs/skel' },
-      { title: 'Muscular', href: '/docs/musc' },
-      { title: 'Nervous', href: '/docs/nerv' },
-      { title: 'Circulatory', href: '/docs/circ' },
-      { title: 'Respiratory', href: '/docs/resp' },
-      { title: 'Digestive', href: '/docs/digest' },
-      { title: 'Renal', href: '/docs/renal' },
-      { title: 'Reproductive', href: '/docs/repro' },
-      { title: 'Immune', href: '/docs/immune' },
-      { title: 'Endocrine', href: '/docs/endo' },
-      { title: 'Exocrine', href: '/docs/exo' },
-    ],
-  },
+    {
+      title: 'Travel Nursing',
+      links: [
+        { title: 'Apartment or RV', href: '/docs/...' },
+      ],
+    },
 
-*/
 
+    {
+      title: 'Anatomical Systems',
+      links: [
+        { title: 'Skeletal', href: '/docs/skel' },
+        { title: 'Muscular', href: '/docs/musc' },
+        { title: 'Nervous', href: '/docs/nerv' },
+        { title: 'Circulatory', href: '/docs/circ' },
+        { title: 'Respiratory', href: '/docs/resp' },
+        { title: 'Digestive', href: '/docs/digest' },
+        { title: 'Renal', href: '/docs/renal' },
+        { title: 'Reproductive', href: '/docs/repro' },
+        { title: 'Immune', href: '/docs/immune' },
+        { title: 'Endocrine', href: '/docs/endo' },
+        { title: 'Exocrine', href: '/docs/exo' },
+      ],
+    },
+  
+
+
+  */
 ]
 
 function GitHubIcon(props) {
@@ -78,7 +86,6 @@ function Header({ navigation }) {
       </div>
       <div className="relative flex flex-grow basis-0 items-center">
         <Link href="/" aria-label="Home page">
-
           <Logo className="hidden h-9 w-auto fill-slate-700 dark:fill-slate-100 lg:block" />
         </Link>
       </div>
@@ -178,7 +185,7 @@ export function Layout({ children, title, tableOfContents }) {
             />
           </div>
         </div>
-        <div className="min-w-0 max-w-2xl pt-4 xl:pt-10 flex-auto px-4 lg:max-w-none lg:pr-0 lg:pl-8 xl:px-16">
+        <div className="min-w-0 max-w-2xl flex-auto px-4 pt-4 lg:max-w-none lg:pr-0 lg:pl-8 xl:px-16 xl:pt-10">
           <article>
             {(title || section) && (
               <header className="mb-9 space-y-1">
