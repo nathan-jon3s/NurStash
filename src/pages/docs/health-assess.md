@@ -23,22 +23,31 @@ If the patient answered all of them correctly, they are alert and oriented x3.
 
 ## Vital Signs
 
-I can then collect vital signs, blood pressure, temperature, oxygen saturation, ALL PULSE SITES. and as I am doing that, I am collecting information.
-•	For instance, 
-1.	How is that patient responding to me
-2.	What is their emotional status (are they calm, distressed, agitated, drowsy)
-3.	Does their skin color match their ethnicity
-4.	Do they understand my questions and can they hear them clearly
-5.	Is there a delay whenever they respond to me
-6.	Any slurs in speech
-7.	Are there any abnormalities like any amputations, masses, lesions
-8.	Is their skin cold, clammy, or sweaty 
-9.	Any respiratory distress-wheezing
-10.	How is their gait or posture (you should notice this when you walk in) 
-11.	Notice their cleanliness or abnormal smells 
--	Can check their memory 
-•	Recent memory: in the last 6 months. Give them 3 words to remember 
-•	Remote memory: further back. Have a family member to verify info 
+Collect the following vital signs;
+
+1. blood pressure, 
+2. temperature, 
+3. oxygen saturation, 
+4. Check All Pules Sites
+
+## Data Collection
+
+While taking the vitals, observe the patient for the following;
+
+1.	Responsiveness (Is there a delay whenever they respond to me?)
+2.	Understanding (Do they understand my questions and can they hear them clearly?)
+3.	Emotional status (Are they calm, distressed, agitated, drowsy, etc?)
+4.	Skin color (Does it match their ethnicity?)
+5.	Skin feel (Is their skin cold, clammy, or sweaty?)
+6.	Speech (Is the patient slurring?)
+7.	Abnormalities (Are there amputations, masses, lesions, etc?)
+8.	Respiratory distress (Are they wheezing?)
+9.	Gait / Posture (You should notice this when you walk in) 
+10.	Cleanliness / Smell (Notice their cleanliness or abnormal smells)
+11. Memory (Recent and remote)
+
+- Recent memory: in the last 6 months. Give them 3 words to remember 
+- Remote memory: further back. Have a family member to verify info 
 
 ## Bony Prominences 
 
