@@ -40,8 +40,12 @@ I can then collect vital signs, blood pressure, temperature, oxygen saturation, 
 •	Recent memory: in the last 6 months. Give them 3 words to remember 
 •	Remote memory: further back. Have a family member to verify info 
 
-2.	General Survey 
--Check ALL bony prominences 
+## General Survey
+
+### Bony Prominences 
+
+You will need to check all of the bony prominences to ensure that they are intact and show no skin breakdown.
+
 1.	Occipital area
 2.	Shoulders
 3.	Elbows
@@ -51,13 +55,16 @@ I can then collect vital signs, blood pressure, temperature, oxygen saturation, 
 7.	Knees
 8.	Ankles
 9.	Check in between the fingers and toes for any skin break down 
--	If everything looks good, you can say bony prominences are intact and show to skin breakdown 
-3.Head 
+
+Once you have verified that everything looks good, you can say "bony prominences are intact and show no skin breakdown."
+
+### Head 
 •	Start to look at the skin color (is it nice and pink) 
 •	Make sure that the head is symmetrical and appropriate size for body
 •	Looking for any abnormal movements or twitching of the face that are involuntary
 •	Look at the eyes and the ears and make sure they are at the same level and symmetrical
 •	“Facial features are in tact and symmetrical”
+
 3.	Next, I can palpate the head 
 •	Check for any masses, indentation, skin breakdown, and infestations (gloves should be worn) 
 •	Any open or bleeding moles
