@@ -40,9 +40,7 @@ I can then collect vital signs, blood pressure, temperature, oxygen saturation, 
 •	Recent memory: in the last 6 months. Give them 3 words to remember 
 •	Remote memory: further back. Have a family member to verify info 
 
-## General Survey
-
-### Bony Prominences 
+## Bony Prominences 
 
 You will need to check all of the bony prominences to ensure that they are intact and show no skin breakdown.
 
@@ -58,30 +56,40 @@ You will need to check all of the bony prominences to ensure that they are intac
 
 Once you have verified that everything looks good, you can say "bony prominences are intact and show no skin breakdown."
 
-### Head 
-•	Start to look at the skin color (is it nice and pink) 
-•	Make sure that the head is symmetrical and appropriate size for body
-•	Looking for any abnormal movements or twitching of the face that are involuntary
-•	Look at the eyes and the ears and make sure they are at the same level and symmetrical
-•	“Facial features are in tact and symmetrical”
+## Facial Features 
 
-3.	Next, I can palpate the head 
+1. Start to look at the skin color, make sure it is nice and pink
+2. Make sure that the head is symmetrical and appropriate size for body
+3. Looking for any abnormal movements or twitching of the face that are involuntary
+4. Look at the eyes and the ears and make sure they are at the same level and symmetrical
+5. State the following; “Facial features are in tact and symmetrical”
+
+## Head Checks
+
+Next, I can palpate the head 
+
 •	Check for any masses, indentation, skin breakdown, and infestations (gloves should be worn) 
 •	Any open or bleeding moles
 •	Any dandruff and note that the skin is flaky dry 
 •	This can be done by moving the hair in one-inch increments looking for any flees or lice (there will be reddish areas) 
 •	Feeling around for anything that is abnormal, as well as the hair color, texture, or patches that could be caused by alopecia 
-4.	Now can access the lymph nodes feeling for any hard lumps and tenderness for patient 
-1.	Pre-Auricular:  in front of the ear 
-2.	Post Auricular: back of the ear
-3.	Occipital region
-4.	Submandibular- bottom of mandible
-5.	Submental- chin
-6.	Deep cervical chain down and follows the sterno muscles 
-7.	And then ask the patent to shrug their shoulders and palpate the supraclavicular area
-8.	What to say: “Lymph nodes noted but not palpable” 
 
-5.	After that I can doff my gloves and preform hand hygiene 
+## Lymph Nodes
+
+1. Access the lymph nodes in the following areas, feeling for any hard lumps and tenderness;
+
+- Pre-Auricular: in front of the ear 
+- Post Auricular: back of the ear
+- Occipital region
+- Submandibular: bottom of mandible
+- Submental: chin
+- Deep cervical chain: follows the sterno muscles 
+- Supraclavicular Area: Shoulders (To check this area, ask the patent to shrug their shoulders and palpate)
+
+2. After checking all of the Lymph nodes state: “Lymph nodes noted but not palpable” 
+3. Then doff your gloves and perform hand hygiene 
+
+## Eye Checks
 
 6.	Eyes
 Looking at:
