@@ -3,14 +3,6 @@ title: Health Assessment
 description: This is the assessment that is performed on every patient.
 ---
 
-This is the assessment that is performed on every patient.
-
----
-
-## What is a Health Assessment?
-
-This is the assessment that is performed on every patient.
-
 ## First Steps
 
 Come in, knock on the door, and introduce yourself
@@ -27,7 +19,7 @@ Once you have finished preparing, then you will ask the following questions;
 3. “Can you tell me where you are at?”
 4. "What is todays date in month, date, and year"
 
-The patient answered all of them correctly, so they are alert and oriented x3
+If the patient answered all of them correctly, they are alert and oriented x3.
 
 ## Vital Signs
 
