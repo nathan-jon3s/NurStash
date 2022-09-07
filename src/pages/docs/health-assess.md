@@ -34,17 +34,19 @@ Collect the following vital signs;
 
 While taking the vitals, observe the patient for the following;
 
-1. **Responsiveness** - Is there a delay whenever they respond to me?
-2. **Understanding** - Do they understand my questions and can they hear them clearly?
-3. **Emotional Status** - Are they calm, distressed, agitated, drowsy, etc?
-4. **Skin Color** - Does it match their ethnicity?
-5. **Skin Feel** - Is their skin cold, clammy, or sweaty?
-6. **Speech Pattern** - Is the patient slurring?
-7. **Abnormalities** - Are there amputations, masses, lesions, etc?
-8. **Respiratory distress** - Are they wheezing?
-9. **Gait & Posture** - You should notice this when you walk in.
-10. **Cleanliness & Smell** - Notice their cleanliness or abnormal smells.
-11. **Memory** (Recent and remote)
+| Name of Vital        | Description                                                     |
+| -------------------- | --------------------------------------------------------------- |
+| Responsiveness       | Is there a delay whenever they respond to me?                   |
+| Understanding        | Do they understand my questions and can they hear them clearly? |
+| Emotional Status     | Are they calm, distressed, agitated, drowsy, etc?               |
+| Skin Color           | Does it match their ethnicity?                                  |
+| Skin Feel            | Is their skin cold, clammy, or sweaty?                          |
+| Speech Pattern       | Is the patient slurring?                                        |
+| Abnormalities        | Are there amputations, masses, lesions, etc?                    |
+| Respiratory Distress | Are they wheezing?                                              |
+| Gait & Posture       | You should notice this when you walk in.                        |
+| Cleanliness & Smell  | Notice their cleanliness or abnormal smells.                    |
+| Memory               | Recent and remote memory.                                       |
 
 - Recent memory: in the last 6 months. Give them 3 words to remember
 - Remote memory: further back. Have a family member to verify info
