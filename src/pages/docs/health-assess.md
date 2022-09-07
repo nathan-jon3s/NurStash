@@ -3,14 +3,14 @@ title: Health Assessment
 description: This is the assessment that is performed on every patient.
 ---
 
-## First Steps
+## 🥇 First Steps
 
 1. Come in, knock on the door, and introduce yourself.
 2. Tell them you’re going to do a head-to-toe assessment.
 3. Perform hand hygiene.
 4. Check arm band to make sure you have the correct patient.
 
-## Initial Questions
+## 🙋‍♀️ Initial Questions
 
 Once you have finished preparing, then you will ask the following questions;
 
@@ -21,7 +21,7 @@ Once you have finished preparing, then you will ask the following questions;
 
 If the patient answered all of them correctly, they are alert and oriented x3.
 
-## Vital Signs
+## 🚦 Vital Signs
 
 Collect the following vital signs;
 
@@ -30,7 +30,7 @@ Collect the following vital signs;
 3. oxygen saturation,
 4. Check All Pules Sites
 
-## Data Collection
+## 💾 Data Collection
 
 While taking the vitals, observe the patient for the following;
 
@@ -49,7 +49,7 @@ While taking the vitals, observe the patient for the following;
 - Recent memory: in the last 6 months. Give them 3 words to remember
 - Remote memory: further back. Have a family member to verify info
 
-## Bony Prominences
+## 🦴 Bony Prominences
 
 You will need to check all of the bony prominences to ensure that they are intact and show no skin breakdown.
 
@@ -85,15 +85,15 @@ Next, I can palpate the head
 
 ## Lymph Nodes
 
-| Name                |  Location of Lymph Nodes   |
-| ------------------- | :------------------------: |
-| Pre-Auricular       |      Front of the ear      |
-| Post Auricular      |      Back of the ear       |
-| Occipital           |      Back of the head      |
-| Submandibular       |     Bottom of mandible     |
-| Submental           |            Chin            |
+| Name of Location    | Physical Location          |
+| ------------------- | -------------------------- |
+| Pre-Auricular       | Front of the ear           |
+| Post Auricular      | Back of the ear            |
+| Occipital           | Back of the head           |
+| Submandibular       | Bottom of mandible         |
+| Submental           | Chin                       |
 | Deep Cervical Chain | Follows the sterno muscles |
-| Supraclavicular     |         Shoulders          |
+| Supraclavicular     | Shoulders                  |
 
 1. Access the lymph nodes in the above areas, feeling for any hard lumps and tenderness. To check the Supraclavicular area, ask the patent to shrug their shoulders then palpate!
 1. After checking all of the Lymph nodes state: “Lymph nodes noted but not palpable.”
